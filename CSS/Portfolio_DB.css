@@ -1,0 +1,59 @@
+.dp-img{
+    border-radius: 100%;
+    height: 200px;
+    width: 200px;
+}
+.skill-name{
+    padding-top: 10px;
+}
+.large{
+    font-size:18px;
+    font: 1.5em sans-serif;
+    color: grey;
+}
+.tcolor{
+   color: #009688;
+};
+.text-white{
+    background-color:white;  
+}
+footer{
+    background-color: #009688;
+    text-align: center;
+    color:white;
+}
+.fa-fw{
+    margin-right: 10px;
+}
+.text-grey{
+    color: #757575;
+}
+.opacity{
+    opacity: 0.7;
+}
+.h-opacity{
+    opacity: 0.99999999;
+}
+.status{
+    color: white;
+    background-color: #009688;
+    border-radius:4px ;
+    padding: 1px 4px 1px 3px;
+}
+.int{
+    border: solid grey 1.5px;
+    border-radius: 5px;
+    text-align: center;
+    padding: 1px 6px 2px 6px;
+    margin: 10px 20px 10px 10px ;
+}
+.hover-opacity:hover{
+    opacity:0.60
+}
+.hover-opacity-off:hover{
+    opacity:1
+}
+.fab{
+    font-size: 1.25em;
+    padding-right: 3px;
+}
