@@ -63,3 +63,7 @@ footer{
     flex-direction: column;
     align-items: center;
 }
+.find-head{
+    color: white;
+    font-weight: 600;
+}
